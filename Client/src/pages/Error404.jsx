@@ -1,5 +1,5 @@
 export const Error404 = () => {
-    return <div className="d-flex justify-content-center align-items-center vh-100">
+    return <div className="flex justify-center items-center h-screen">
         404 | PAGE NOT FOUND
     </div>
 }
